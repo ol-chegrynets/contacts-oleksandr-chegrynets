@@ -1,14 +1,8 @@
-.wrapper {
-  display: flex;
-  flex-direction: column;
-}
-
-.section {
-  display: grid;
-  gap: 4px;
-}
-
 .title {
-  margin: 0;
-  font-size: 28px;
+  text-shadow: 10px 14px 10px 14px #efebeb;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 1.5;
+  letter-spacing: 5px;
+  text-shadow: 2px 2px 4px rgb(176, 173, 173)
 }

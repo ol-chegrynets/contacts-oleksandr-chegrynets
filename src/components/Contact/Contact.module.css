@@ -1,0 +1,12 @@
+.title {
+    text-transform: uppercase;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px 4px rgb(77, 74, 74);
+    color: #da9108;
+}
+
+.text {
+    color: white;
+}

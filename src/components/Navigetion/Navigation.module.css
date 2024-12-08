@@ -1,3 +1,6 @@
-.item {
-    border: solid 5px #000;
+.blockBtn {
+    display: flex;
+    justify-content: center;
+    gap: 1px;
+
 }

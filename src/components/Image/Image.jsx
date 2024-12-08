@@ -2,7 +2,7 @@ import { Button } from "../Button/Button";
 import s from "./Image.module.css";
 const Image = () => {
   return (
-    <div>
+    <div className={s.card}>
       <img
         className={s.image}
         src="../../../public/Oleksandr-Chegrynets.jpg"

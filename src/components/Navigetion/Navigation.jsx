@@ -7,9 +7,9 @@ const Navigation = () => {
     <section className={s.section}>
       <Image />
       <div className={s.blockBtn}>
-        <Button className={s.item}>contact</Button>
-        <Button className={s.item}>company</Button>
-        <Button className={s.item}>social networks</Button>
+        <Button>Contact</Button>
+        <Button>Company</Button>
+        <Button>Social Networks</Button>
       </div>
     </section>
   );
