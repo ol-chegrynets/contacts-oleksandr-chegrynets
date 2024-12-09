@@ -5,7 +5,7 @@ const Image = () => {
     <div className={s.card}>
       <img
         className={s.image}
-        src="../../../public/Oleksandr-Chegrynets.jpg"
+        src="../../../public/Oleksandr-Chegrynets.png"
         alt="My Photo"
       />
       <h2 className={s.name}>Oleksandr Chegrynets</h2>
