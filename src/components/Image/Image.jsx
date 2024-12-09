@@ -1,6 +1,6 @@
 import { Button } from "../Button/Button";
 import s from "./Image.module.css";
-import avatarURL from "../../assets/images/Oleksandr-Chegrynets.png";
+import avatarURL from "../../assets/images/avatar.png";
 const Image = () => {
   return (
     <div className={s.card}>
